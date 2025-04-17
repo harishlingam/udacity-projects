@@ -1,40 +1,63 @@
-# SaaS Monetization Model – Priceless Penny Project
+# 📊 Udacity Data Product Manager Nanodegree
 
-In this project, I built a monetization model for a post-revenue B2B SaaS business and then adapted it to explore the impact of a different pricing scheme. The analysis is based on a hypothetical company with a defined product, pricing structure, and recent performance data.
+This repository contains projects completed by **Harish Lingam** as part of the [Udacity Data Product Manager Nanodegree](https://www.udacity.com/course/data-product-manager-nanodegree--nd030). Each project demonstrates hands-on application of growth strategy, data analysis, monetization modeling, and experimentation techniques used in modern product management.
+
+---
+
+## 📈 Project 1: Building, Validating, and Expanding Growth Loops
+
+As Growth Product Manager for **Craft Snacks**, a fictional e-commerce company, I developed a growth strategy using product-led growth loops. This work focuses on designing, validating, and aligning cross-functional teams around scalable acquisition paths.
+
+### 📁 Files:
+- `1_building_validating_and_expanding_growth_loops.pdf`  
+  Supporting document outlining the growth loop design process and rationale.
+- `1_craft_snacks_crafting_a_growth_loop.pdf`  
+  Executive presentation deck proposing:
+  - Market landscape analysis  
+  - Growth opportunity mapping  
+  - Validated loop strategy  
+  - Vision for sustainable growth  
+
+---
+
+## 🔄 Project 2: Activation & Retention Analysis
+
+This project explores how user engagement evolves post-activation using a hypothetical Slack-like product. I applied funnel, segment, and cohort analysis to surface growth levers and retention challenges.
+
+### 📁 Files:
+- `2_activation_analysis.xlsx`  
+  Activation analysis including:
+  - Funnel and drop-off metrics  
+  - Aha/setup/habit moment analysis  
+  - Segment-based experimentation hypotheses  
+
+- `2_retention_analysis.xlsx`  
+  Retention-focused analysis:
+  - Cohort and lifecycle visualizations  
+  - Churn and LTV modeling  
+  - Segment and engagement state breakdowns  
+  - Dormant user experiment proposals  
+
+---
+
+## 💵 Project 3: Monetization Strategy – Priceless Penny
+
+In this project, I built and refined a monetization model for a hypothetical post-revenue B2B SaaS business. I evaluated performance using acquisition, conversion, and revenue data, then proposed pricing changes and product improvements to boost monetization KPIs.
+
+### 📁 Files:
+- `3_priceless_penny.xlsx`  
+  Excel model covering:
+  - Lead funnel performance  
+  - Paid conversion metrics  
+  - Revenue and profitability tracking  
+
+- `3_priceless_penny.pdf`  
+  Strategic summary and recommendations:
+  - Product and pricing improvement proposals  
+  - Estimated impact on KPIs  
+  - Forecasting customer and revenue growth  
 
 ---
 
 ## 👨‍💼 Author  
 **Harish Lingam**
-
----
-
-## 📦 Project Files
-
-### 1. `Harish Lingam - Priceless Penny.xlsx`
-This spreadsheet contains **Part 1** of the project:
-- Built baseline monetization models to evaluate the company's 2019 performance across:
-  - Lead acquisition efficiency  
-  - Paid customer conversion  
-  - Revenue generation  
-  - Profitability  
-
-### 2. `Harish Lingam - Priceless Penny.docx`
-This document contains **Part 2** of the project:
-- Analysis of the base models and identification of potential product improvements  
-- Quantified estimation of each improvement’s impact on KPIs (e.g., conversion rate, exposure %)  
-- Forecasting changes to customer base and revenue based on selected improvements  
-- Proposed updates to the pricing scheme to drive monetization growth  
-
----
-
-## 📊 Key Outcomes
-
-- Clear evaluation of core monetization metrics  
-- Data-driven recommendations to improve performance  
-- Strategic modeling of pricing adjustments and their downstream effects  
-
----
-
-## 📁 Folder Structure
-
