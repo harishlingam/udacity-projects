@@ -1,65 +1,93 @@
-# Udacity Projects Portfolio
+# 🧠 Udacity Projects Portfolio
 
-This repository contains project work completed as part of various [Udacity Nanodegree](https://www.udacity.com/) programs. As a product manager with a growing focus on technical depth, I'm using these projects to deepen my skills in AI, machine learning, and data-driven product development.
+This repository showcases project work completed by **Harish Lingam** as part of various [Udacity Nanodegree](https://www.udacity.com/) programs. As a product manager with a growing focus on technical depth, I'm leveraging these projects to deepen my skills in AI, machine learning, and data-informed product development.
 
-Each subfolder represents a standalone project or course module, with code, documentation, and results where applicable.
+Each subfolder contains standalone project work, complete with documentation, data analysis, and strategic deliverables.
 
 ---
 
-## 🧠 Nanodegree Tracks
+## 🎓 Nanodegree Tracks
 
-### 1. Generative AI Nanodegree
-Projects focused on large language models (LLMs), fine-tuning, prompt engineering, and efficient deployment techniques.
+### 1. AI Product Manager Nanodegree (`ai-product-manager-nanodegree/`)
 
-- **[PEFT Emotion Classifier](./generative-ai/peft-emotion-classifier.ipynb)**  
-  Fine-tuned a BERT-based model using parameter-efficient fine-tuning (PEFT) to classify emotions in text.  
-  Includes training and evaluation on the `dair-ai/emotion` dataset.  
-  *(See `/generative-ai` folder for details)*
+This program explores how to integrate AI and machine learning into real-world product management. Key topics include identifying high-impact use cases, collaborating with technical teams, defining success metrics, and designing responsible AI products.
 
-### 2. (Future) Natural Language Processing Nanodegree
-Planned coursework on tokenization, language modeling, and sequence-to-sequence tasks.  
-Projects will include sentiment analysis, machine translation, and summarization.
+**Projects include:**
+- Framing ML product opportunities with clear success metrics
+- Creating AI delivery roadmaps across business and engineering teams
+- Identifying risks related to bias, explainability, and misuse of AI
 
-### 3. AI Product Manager Nanodegree
-Projects exploring the intersection of product management and machine learning, including responsible AI deployment, user trust, and aligning AI capabilities with business goals.
+---
 
-### 4. Data Product Manager Nanodegree
-Projects focused on defining product metrics, collaborating with data teams, and leveraging analytics for strategy and experimentation.
+### 2. Data Product Manager Nanodegree (`data-product-manager-nanodegree/`)
 
-### 5. Growth Product Manager Nanodegree
-Projects centered on product-led growth, user acquisition and retention, A/B testing, and growth modeling.
+This program focuses on using data science and analytics to shape product direction. Topics include infrastructure strategy, product KPIs, and iteration planning based on quantitative insights.
+
+**Projects include:**
+- Evaluating monetization performance and recommending pricing changes
+- Designing a scalable data infrastructure strategy
+- Conducting activation and retention cohort analyses
+
+---
+
+### 3. Growth Product Manager Nanodegree (`growth-product-manager-nanodegree/`)
+
+This program focuses on product-led growth strategies, from user acquisition and activation to retention and monetization. Emphasis is placed on experimentation and building scalable growth loops.
+
+**Projects include:**
+- Developing a growth loop and go-to-market plan for a DTC snack brand
+- Running activation and retention funnel analyses for a Slack-style app
+- Proposing monetization improvements for a B2B SaaS company
+
+---
+
+### 4. Generative AI Nanodegree (`generative-ai-nanodegree/`)
+
+This program focuses on building products powered by large language models (LLMs). Projects emphasize prompt engineering, model fine-tuning, and efficient deployment using parameter-efficient techniques.
+
+**Projects include:**
+- Fine-tuning a BERT-based model using LoRA (PEFT) on the `dair-ai/emotion` dataset
+- Training and evaluating emotion classification pipelines using Hugging Face and PyTorch
+
+---
+
+### 5. Natural Language Processing Nanodegree (`natural-language-processing/`)
+
+*(Coming soon)*  
+This upcoming track will explore foundational NLP concepts including tokenization, sequence modeling, and applications such as sentiment analysis, summarization, and machine translation.
 
 ---
 
 ## 🚀 Goals
 
-This repo showcases my:
-- Continued growth as a **technical product manager**
-- Ability to work across **data science, ML engineering, and product strategy**
-- Hands-on experience with **AI workflows**, from prototyping to evaluation
-- Strong emphasis on **data-informed decision making** and **experimentation**
+This portfolio demonstrates my:
+- Growth as a **technical product manager** with strong AI/ML fluency
+- Experience collaborating across **product, data science, and engineering teams**
+- Emphasis on **experimentation**, **metrics**, and **outcome-driven** strategy
+- Commitment to building **responsible, user-centered AI solutions**
 
 ---
 
 ## 🔧 Technologies & Tools
 
-- Python, Jupyter Notebooks
-- Hugging Face Transformers & Datasets
-- PyTorch, PEFT (LoRA, adapters)
-- SQL, product analytics tooling
-- GitHub for version control and documentation
+- Python, Jupyter Notebooks  
+- Hugging Face Transformers, Datasets, and PEFT  
+- PyTorch, LoRA adapters  
+- SQL, Tableau, Excel  
+- Product analytics (activation, retention, monetization)  
+- GitHub for version control and project documentation
 
 ---
 
-## 📁 Structure
+## 📁 Folder Structure
 
-| Nanodegree / Course              | Description                                                                 |
+| Folder Name                      | Description                                                                 |
 |----------------------------------|-----------------------------------------------------------------------------|
-| `generative-ai/`                | Projects from the Generative AI Nanodegree, including PEFT, LLM fine-tuning, and evaluation. |
-| `natural-language-processing/`  | (Placeholder for future NLP projects.)                                     |
-| `ai-product-manager/`           | AI/ML-focused product management projects, including ethical deployment, user trust, and value alignment. |
-| `data-product-manager/`         | Product-focused work involving data strategy, metrics frameworks, and stakeholder communication. |
-| `growth-product-manager/`       | Projects related to product-led growth, experimentation, and user lifecycle insights. |
+| `ai-product-manager-nanodegree/` | PM-focused AI projects, including delivery roadmaps and ethical evaluations |
+| `data-product-manager-nanodegree/` | Monetization modeling, analytics strategy, and data infrastructure planning |
+| `growth-product-manager-nanodegree/` | Growth loops, retention funnels, and SaaS monetization improvement         |
+| `generative-ai-nanodegree/`     | LLM fine-tuning, prompt engineering, and model deployment projects          |
+| `natural-language-processing/`  | *(Coming soon)* Foundational NLP projects and modeling workflows            |
 
 ---
 
@@ -67,4 +95,4 @@ This repo showcases my:
 
 Feel free to explore, fork, or reach out if you'd like to connect on product, AI, or data strategy.
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashlingam)
+- 🔗 [LinkedIn – Ash Lingam](https://www.linkedin.com/in/ashlingam)
